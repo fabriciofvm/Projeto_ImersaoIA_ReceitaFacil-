@@ -8,7 +8,7 @@ ________________________________________________________________________________
 _______________________________________________________________________________________________________________________________________________________________________________ 
                                                                     
                                                                                                                                  
- Foi pensando em agregar valor ao seu tempo e na praticidade culinária, que resolvi, utilizando o Gemini (IA do Google), criar um ChatBot cahamdo ReceitaFacil.  Estava tentando desenvolver um projeto voltado para outro tema, porém o fluía, foi então que bateu aquela fome, fui à geladeira e armário, porém não conseguia decidir o que preparar.  
+ Foi pensando em agregar valor ao seu tempo e na praticidade culinária, que resolvi, utilizando o Gemini (IA do Google), criar um ChatBot cahamdo ReceitaFacil.  Estava tentando desenvolver um projeto voltado para outro tema, porém não estava fluindo, foi então que bateu aquela fome, fui à geladeira e armário, porém não conseguia decidir o que preparar.  
   	Foi então que utilizei o Gemini (IA do Google) para desenvolver uma receita a partir dos alimentos que eu tinha a minha disposição no momento, e deu certo, já com a barriga cheia, decidi, é isso, vou fazer um ChatBot para fornecer receitas baseadas nos ingredientes que temos. Então trago aqui para vocês o ReceitaFacil. 
    
 ________________________________________________________________________________________________________________________________________________________________________________
