@@ -1,4 +1,4 @@
-# *Receita de Sucesso - ReceitaFacil*
+# *Receita de Sucesso com ReceitaFacil*
 
 
 Vivemos sempre super atarefados, onde o tempo é nosso maior inimigo, nunca temos tempo de preparar nosso próprio alimento, e mesmo que encontremos tempo para preparar, nunca temos todos os ingredientes necessários para o preparo de um prato específico, então voltamos novamente a disposição de tempo, pois precisamos ir ao mercado e comprar os ingredientes faltantes.
